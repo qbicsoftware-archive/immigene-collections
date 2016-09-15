@@ -11,6 +11,8 @@ public class Sample {
 
     public String[] timepoints;
 
+    public Experiment[] experiments;
+
     public int aliquots;
 
 }
