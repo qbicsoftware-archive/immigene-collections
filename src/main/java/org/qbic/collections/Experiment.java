@@ -7,7 +7,7 @@ public class Experiment {
 
     public String experiment;
 
-    public String experimentID;
+    public String id;
 
     public int aliquots;
 
