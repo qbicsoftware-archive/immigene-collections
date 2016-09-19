@@ -1,12 +1,11 @@
 package org.qbic.collections;
 
 /**
- * Created by sven1103 on 15/09/16.
+ * Created by sven1103 on 19/09/16.
  */
-public class ImmiGeneDonor {
+public class ImmiGenePatient {
 
     public String id;
 
     public Sample[] samples;
-
 }
