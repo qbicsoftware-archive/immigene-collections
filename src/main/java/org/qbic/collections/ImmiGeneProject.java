@@ -6,6 +6,8 @@ package org.qbic.collections;
  */
 public class ImmiGeneProject {
 
+    public String projectID;
+
     public String space;
 
     public int numberOfPatients;
