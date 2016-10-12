@@ -12,6 +12,8 @@ public class ImmiGeneProject {
 
     public int numberOfPatients;
 
+    public Integer organismID;
+
     public ImmiGenePatient donor;
 
     public ImmiGenePatient recepient;
